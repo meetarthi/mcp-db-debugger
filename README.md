@@ -1,5 +1,5 @@
 # mcp-db-debugger
-------------------------
+
 **Overview**
 MCP Database Debugger is a database troubleshooting tool that combines the power of OpenAI's GPT-4 with database interactions through the MCP. It analyzes database errors, executes safe diagnostic queries, and provides actionable recommendations to resolve issues quickly.
 
