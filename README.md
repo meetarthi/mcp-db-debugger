@@ -15,6 +15,7 @@ MCP Database Debugger is a database troubleshooting tool that combines the power
 
 
 **Creating DB in terminal and getting the error for debugger :*
+
 1. Install MySQL
 
    ```
