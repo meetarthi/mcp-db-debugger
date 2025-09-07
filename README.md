@@ -22,6 +22,8 @@ MCP Database Debugger is a database troubleshooting tool that combines the power
 brew install mysql 
    ```
 
+
+
 2.Start MySQL and log in as root:
 
 ```
