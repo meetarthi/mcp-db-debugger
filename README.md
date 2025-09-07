@@ -12,3 +12,8 @@ MCP Database Debugger is a database troubleshooting tool that combines the power
 4. Database Execution → MCP runs approved queries
 5. Result Synthesis → Combined AI analysis + database results = actionable recommendations
 
+**How to run:**
+1. Clone the repo -
+```
+git clone https://github.com/meetarthi/mcp-db-debugger.git
+```
