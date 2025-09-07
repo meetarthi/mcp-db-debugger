@@ -51,7 +51,7 @@ pip install jupyterlab
 
 ---------------------
 
-**How to run:**
+**How to run app:**
 1. Clone the repo -
 
 ```
@@ -82,4 +82,15 @@ DATABASE_URL=mysql://[user]:[username]@localhost/[Db_name]
 ```
 streamlit run app.py
 ```
+
+**SAMPLE INPUT and OUTPUT**
+
+Input with example error
+--------------------
+<img width="2876" height="1178" alt="image" src="https://github.com/user-attachments/assets/c4092605-b8be-4f05-8af8-14f1eb5377fe" />
+
+Output
+--------------------
+<img width="2326" height="858" alt="image" src="https://github.com/user-attachments/assets/b5aafa3e-6422-43cd-a0fa-18eeb2a6da92" />
+
 
