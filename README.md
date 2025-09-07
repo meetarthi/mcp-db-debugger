@@ -49,7 +49,7 @@ pip install jupyterlab
 
 6. Run the notebook in the repo to get the error generated from the DB
 
-
+---------------------
 
 **How to run:**
 1. Clone the repo -
@@ -76,3 +76,10 @@ pip install -r requirements.txt
 OPENAI_API_KEY=your_openai_api_key_here
 DATABASE_URL=mysql://[user]:[username]@localhost/[Db_name]
 ```
+
+5. Run app_py on streamlit
+
+```
+streamlit run app.py
+```
+
